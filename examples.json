@@ -1,0 +1,482 @@
+[
+    {
+        "input": "How does the result change if option A's capital cost is adjusted to 1000?",
+        "output": "{'capital_costs' : {'A': 1000}}"
+    },
+    {
+        "input": "What impact does altering option A's capital cost to 1000 have on the result?",
+        "output": "{'capital_costs' : {'A': 1000}}"
+    },
+    {
+        "input": "If option A's capital cost becomes 89000, what happens to the result?",
+        "output": "{'capital_costs' : {'A': 89000}}"
+    },
+    {
+        "input": "How is the result affected when option A's capital cost is set to 250?",
+        "output": "{'capital_costs' : {'A': 250}}"
+    },
+    {
+        "input": "What will the result be if option A's capital cost is modified to 250?",
+        "output": "{'capital_costs' : {'A': 250}}"
+    },
+    {
+        "input": "What effect does a 500 capital cost for option A have on the result?",
+        "output": "{'capital_costs' : {'A': 500}}"
+    },
+    {
+        "input": "How does setting option A's capital cost to 1000 impact the result?",
+        "output": "{'capital_costs' : {'A': 1000}}"
+    },
+    {
+        "input": "What result occurs if option A's capital cost is changed to 1000?",
+        "output": "{'capital_costs' : {'A': 1000}}"
+    },
+    {
+        "input": "If option A's capital cost is 1000, how does it alter the result?",
+        "output": "{'capital_costs' : {'A': 1000}}"
+    },
+    {
+        "input": "WWhat happens to the result when option A's capital cost is 1000?",
+        "output": "{'capital_costs' : {'A': 1000}}"
+    },
+    {
+        "input": "How does the result change if option B's capital cost is adjusted to 1000?",
+        "output": "{'capital_costs' : {'B': 1000}}"
+    },
+    {
+        "input": "What impact does altering option B's capital cost to 1000 have on the result?",
+        "output": "{'capital_costs' : {'B': 1000}}"
+    },
+    {
+        "input": "If option B's capital cost becomes 89000, what happens to the result?",
+        "output": "{'capital_costs' : {'B': 89000}}"
+    },
+    {
+        "input": "How is the result affected when option B's capital cost is set to 250?",
+        "output": "{'capital_costs' : {'B': 250}}"
+    },
+    {
+        "input": "What will the result be if option B's capital cost is modified to 250?",
+        "output": "{'capital_costs' : {'B': 250}}"
+    },
+    {
+        "input": "What effect does a 500 capital cost for option A have on the result?",
+        "output": "{'capital_costs' : {'B': 500}}"
+    },
+    {
+        "input": "How does setting option B's capital cost to 1000 impact the result?",
+        "output": "{'capital_costs' : {'B': 1000}}"
+    },
+    {
+        "input": "What result occurs if option B's capital cost is changed to 1000?",
+        "output": "{'capital_costs' : {'B': 1000}}"
+    },
+    {
+        "input": "If option B's capital cost is 1000, how does it alter the result?",
+        "output": "{'capital_costs' : {'B': 1000}}"
+    },
+    {
+        "input": "WWhat happens to the result when option B's capital cost is 1000?",
+        "output": "{'capital_costs' : {'B': 1000}}"
+    },
+    {
+        "input": "How does the result change if option C's capital cost is adjusted to 1000?",
+        "output": "{'capital_costs' : {'C': 1000}}"
+    },
+    {
+        "input": "What impact does altering option C's capital cost to 1000 have on the result?",
+        "output": "{'capital_costs' : {'C': 1000}}"
+    },
+    {
+        "input": "If option C's capital cost becomes 89000, what happens to the result?",
+        "output": "{'capital_costs' : {'C': 89000}}"
+    },
+    {
+        "input": "How is the result affected when option C's capital cost is set to 250?",
+        "output": "{'capital_costs' : {'C': 250}}"
+    },
+    {
+        "input": "What will the result be if option C's capital cost is modified to 250?",
+        "output": "{'capital_costs' : {'C': 250}}"
+    },
+    {
+        "input": "What effect does a 500 capital cost for option A have on the result?",
+        "output": "{'capital_costs' : {'C': 500}}"
+    },
+    {
+        "input": "How does setting option C's capital cost to 1000 impact the result?",
+        "output": "{'capital_costs' : {'C': 1000}}"
+    },
+    {
+        "input": "What result occurs if option C's capital cost is changed to 1000?",
+        "output": "{'capital_costs' : {'C': 1000}}"
+    },
+    {
+        "input": "If option C's capital cost is 1000, how does it alter the result?",
+        "output": "{'capital_costs' : {'C': 1000}}"
+    },
+    {
+        "input": "WWhat happens to the result when option C's capital cost is 1000?",
+        "output": "{'capital_costs' : {'C': 1000}}"
+    },
+    {
+        "input": "What would be the effect if the operational cost for Option A is changed to 33?",
+        "output": "{'operational_costs' : {'A': 33}}"
+    },
+    {
+        "input": "What would occur if the operational cost for Option A is updated to 121?",
+        "output": "{'operational_costs' : {'A': 121}}"
+    },
+    {
+        "input": "How would the outcome differ if the operational cost for Option A is set to 176?",
+        "output": "{'operational_costs' : {'A': 176}}"
+    },
+    {
+        "input": "What implications would arise from changing the operational cost for Option A to 99?",
+        "output": "{'operational_costs' : {'A': 99}}"
+    },
+    {
+        "input": "If the operational cost for Option A is altered to 987, what impact would it have?",
+        "output": "{'operational_costs' : {'A': 987}}"
+    },
+    {
+        "input": "What would be the result of modifying the operational cost for Option A to 1293?",
+        "output": "{'operational_costs' : {'A': 1293}}"
+    },
+    {
+        "input": "How would the situation be affected if the operational cost for Option A is adjusted to 22000?",
+        "output": "{'operational_costs' : {'A': 22000}}"
+    },
+    {
+        "input": "What changes will take place if the operational cost for Option A is 450?",
+        "output": "{'operational_costs' : {'A': 450}}"
+    },
+    {
+        "input": "If the operational cost for Option A becomes 200, what will occur?",
+        "output": "{'operational_costs' : {'A': 200}}"
+    },
+    {
+        "input": "What will happen if the operational cost for Option A is set to 111?",
+        "output": "{'operational_costs' : {'A': 111}}"
+    },
+    {
+        "input": "What would be the effect if the operational cost for Option B is changed to 33?",
+        "output": "{'operational_costs' : {'B': 33}}"
+    },
+    {
+        "input": "What would occur if the operational cost for Option B is updated to 121?",
+        "output": "{'operational_costs' : {'B': 121}}"
+    },
+    {
+        "input": "How would the outcome differ if the operational cost for Option B is set to 176?",
+        "output": "{'operational_costs' : {'B': 176}}"
+    },
+    {
+        "input": "What implications would arise from changing the operational cost for Option B to 99?",
+        "output": "{'operational_costs' : {'B': 99}}"
+    },
+    {
+        "input": "If the operational cost for Option B is altered to 987, what impact would it have?",
+        "output": "{'operational_costs' : {'B': 987}}"
+    },
+    {
+        "input": "What would be the result of modifying the operational cost for Option B to 1293?",
+        "output": "{'operational_costs' : {'B': 1293}}"
+    },
+    {
+        "input": "How would the situation be affected if the operational cost for Option B is adjusted to 22000?",
+        "output": "{'operational_costs' : {'B': 22000}}"
+    },
+    {
+        "input": "What changes will take place if the operational cost for Option B is 450?",
+        "output": "{'operational_costs' : {'B': 450}}"
+    },
+    {
+        "input": "If the operational cost for Option B becomes 200, what will occur?",
+        "output": "{'operational_costs' : {'B': 200}}"
+    },
+    {
+        "input": "What will happen if the operational cost for Option B is set to 111?",
+        "output": "{'operational_costs' : {'B': 111}}"
+    },
+    {
+        "input": "What would be the effect if the operational cost for Option C is changed to 33?",
+        "output": "{'operational_costs' : {'C': 33}}"
+    },
+    {
+        "input": "What would occur if the operational cost for Option C is updated to 121?",
+        "output": "{'operational_costs' : {'C': 121}}"
+    },
+    {
+        "input": "How would the outcome differ if the operational cost for Option C is set to 176?",
+        "output": "{'operational_costs' : {'C': 176}}"
+    },
+    {
+        "input": "What implications would arise from changing the operational cost for Option C to 99?",
+        "output": "{'operational_costs' : {'C': 99}}"
+    },
+    {
+        "input": "If the operational cost for Option C is altered to 987, what impact would it have?",
+        "output": "{'operational_costs' : {'C': 987}}"
+    },
+    {
+        "input": "What would be the result of modifying the operational cost for Option C to 1293?",
+        "output": "{'operational_costs' : {'C': 1293}}"
+    },
+    {
+        "input": "How would the situation be affected if the operational cost for Option C is adjusted to 22000?",
+        "output": "{'operational_costs' : {'C': 22000}}"
+    },
+    {
+        "input": "What changes will take place if the operational cost for Option C is 450?",
+        "output": "{'operational_costs' : {'C': 450}}"
+    },
+    {
+        "input": "If the operational cost for Option C becomes 200, what will occur?",
+        "output": "{'operational_costs' : {'C': 200}}"
+    },
+    {
+        "input": "What will happen if the operational cost for Option C is set to 111?",
+        "output": "{'operational_costs' : {'C': 111}}"
+    },
+    {
+        "input": "What would occur if the labor requirements for Option A are updated to 467?",
+        "output": "{'labor_requirements' : {'A': 467}}"
+    },
+    {
+        "input": "What implications would arise from changing the labor requirements for Option A to 123?",
+        "output": "{'labor_requirements' : {'A': 123}}"
+    },
+    {
+        "input": "How would the outcome differ if the labor requirements for Option A are set to 9856?",
+        "output": "{'labor_requirements' : {'A': 9856}}"
+    },
+    {
+        "input": "What effect would there be if the labor requirements for Option A are changed to 768?",
+        "output": "{'labor_requirements' : {'A': 768}}"
+    },
+    {
+        "input": "What would be the result of modifying the labor requirements for Option A to 234?",
+        "output": "{'labor_requirements' : {'A': 234}}"
+    },
+    {
+        "input": "If the labor requirements for Option A are altered to 543, what impact would it have?",
+        "output": "{'labor_requirements' : {'A': 543}}"
+    },
+    {
+        "input": "How would the situation be affected if the labor requirements for Option A are adjusted to 1987?",
+        "output": "{'labor_requirements' : {'A': 1987}}"
+    },
+    {
+        "input": "What changes will take place if the labor requirements for Option A are set to 1111?",
+        "output": "{'labor_requirements' : {'A': 1111}}"
+    },
+    {
+        "input": "If the labor needs for Option A become 99, what will occur?",
+        "output": "{'labor_requirements' : {'A': 99}}"
+    },
+    {
+        "input": "What will happen if the labor requirements for Option A are changed to 12?",
+        "output": "{'labor_requirements' : {'A': 12}}"
+    },
+    {
+        "input": "What would occur if the labor requirements for Option B are updated to 467?",
+        "output": "{'labor_requirements' : {'B': 467}}"
+    },
+    {
+        "input": "What implications would arise from changing the labor requirements for Option B to 123?",
+        "output": "{'labor_requirements' : {'B': 123}}"
+    },
+    {
+        "input": "How would the outcome differ if the labor requirements for Option B are set to 9856?",
+        "output": "{'labor_requirements' : {'B': 9856}}"
+    },
+    {
+        "input": "What effect would there be if the labor requirements for Option B are changed to 768?",
+        "output": "{'labor_requirements' : {'B': 768}}"
+    },
+    {
+        "input": "What would be the result of modifying the labor requirements for Option B to 234?",
+        "output": "{'labor_requirements' : {'B': 234}}"
+    },
+    {
+        "input": "If the labor requirements for Option B are altered to 543, what impact would it have?",
+        "output": "{'labor_requirements' : {'B': 543}}"
+    },
+    {
+        "input": "How would the situation be affected if the labor requirements for Option B are adjusted to 1987?",
+        "output": "{'labor_requirements' : {'B': 1987}}"
+    },
+    {
+        "input": "What changes will take place if the labor requirements for Option B are set to 1111?",
+        "output": "{'labor_requirements' : {'B': 1111}}"
+    },
+    {
+        "input": "If the labor needs for Option B become 99, what will occur?",
+        "output": "{'labor_requirements' : {'B': 99}}"
+    },
+    {
+        "input": "What will happen if the labor requirements for Option B are changed to 12?",
+        "output": "{'labor_requirements' : {'B': 12}}"
+    },
+    {
+        "input": "What would occur if the labor requirements for Option C are updated to 467?",
+        "output": "{'labor_requirements' : {'C': 467}}"
+    },
+    {
+        "input": "What implications would arise from changing the labor requirements for Option C to 123?",
+        "output": "{'labor_requirements' : {'C': 123}}"
+    },
+    {
+        "input": "How would the outcome differ if the labor requirements for Option C are set to 9856?",
+        "output": "{'labor_requirements' : {'C': 9856}}"
+    },
+    {
+        "input": "What effect would there be if the labor requirements for Option C are changed to 768?",
+        "output": "{'labor_requirements' : {'C': 768}}"
+    },
+    {
+        "input": "What would be the result of modifying the labor requirements for Option C to 234?",
+        "output": "{'labor_requirements' : {'C': 234}}"
+    },
+    {
+        "input": "If the labor requirements for Option C are altered to 543, what impact would it have?",
+        "output": "{'labor_requirements' : {'C': 543}}"
+    },
+    {
+        "input": "How would the situation be affected if the labor requirements for Option C are adjusted to 1987?",
+        "output": "{'labor_requirements' : {'C': 1987}}"
+    },
+    {
+        "input": "What changes will take place if the labor requirements for Option C are set to 1111?",
+        "output": "{'labor_requirements' : {'C': 1111}}"
+    },
+    {
+        "input": "If the labor needs for Option C become 99, what will occur?",
+        "output": "{'labor_requirements' : {'C': 99}}"
+    },
+    {
+        "input": "What will happen if the labor requirements for Option C are changed to 12?",
+        "output": "{'labor_requirements' : {'C': 12}}"
+    },
+    {
+        "input": "What would be the effect of having Option A's capacity at 50000?",
+        "output": "{'additional_capacity' : {'A': 50000}}"
+    },
+    {
+        "input": "If Option A's capacity reaches 12900, what might occur?",
+        "output": "{'additional_capacity' : {'A': 12900}}"
+    },
+    {
+        "input": "What could happen if Option A's capacity is adjusted to 19876?",
+        "output": "{'additional_capacity' : {'A': 19876}}"
+    },
+    {
+        "input": "How might the situation evolve if Option A's capacity is 11?",
+        "output": "{'additional_capacity' : {'A': 11}}"
+    },
+    {
+        "input": "What impact would there be if Option A's capacity was changed to 12876,000?",
+        "output": "{'additional_capacity' : {'A': 12876}}"
+    },
+    {
+        "input": "If the capacity of Option A becomes 56347, what could happen?",
+        "output": "{'additional_capacity' : {'A': 56347}}"
+    },
+    {
+        "input": "What might be the result if Option A's capacity increased to 87234?",
+        "output": "{'additional_capacity' : {'A': 87234}}"
+    },
+    {
+        "input": "How would things be different with Option A having a capacity of 12567",
+        "output": "{'additional_capacity' : {'A': 12567}}"
+    },
+    {
+        "input": "What changes would occur if the capacity of Option A was set at 59123",
+        "output": "{'additional_capacity' : {'A': 59123}}"
+    },
+    {
+        "input": "If Option A's capacity is altered to 6723, what might happen?",
+        "output": "{'additional_capacity' : {'A': 6723}}"
+    },
+    {
+        "input": "What would be the effect of having Option B's capacity at 50000?",
+        "output": "{'additional_capacity' : {'B': 50000}}"
+    },
+    {
+        "input": "If Option B's capacity reaches 12900, what might occur?",
+        "output": "{'additional_capacity' : {'B': 12900}}"
+    },
+    {
+        "input": "What could happen if Option B's capacity is adjusted to 19876?",
+        "output": "{'additional_capacity' : {'B': 19876}}"
+    },
+    {
+        "input": "How might the situation evolve if Option B's capacity is 11?",
+        "output": "{'additional_capacity' : {'B': 11}}"
+    },
+    {
+        "input": "What impact would there be if Option B's capacity was changed to 12876,000?",
+        "output": "{'additional_capacity' : {'B': 12876}}"
+    },
+    {
+        "input": "If the capacity of Option B becomes 56347, what could happen?",
+        "output": "{'additional_capacity' : {'B': 56347}}"
+    },
+    {
+        "input": "What might be the result if Option B's capacity increased to 87234?",
+        "output": "{'additional_capacity' : {'B': 87234}}"
+    },
+    {
+        "input": "How would things be different with Option B having a capacity of 12567",
+        "output": "{'additional_capacity' : {'B': 12567}}"
+    },
+    {
+        "input": "What changes would occur if the capacity of Option B was set at 59123",
+        "output": "{'additional_capacity' : {'B': 59123}}"
+    },
+    {
+        "input": "If Option B's capacity is altered to 6723, what might happen?",
+        "output": "{'additional_capacity' : {'B': 6723}}"
+    },
+    {
+        "input": "What would be the effect of having Option C's capacity at 50000?",
+        "output": "{'additional_capacity' : {'C': 50000}}"
+    },
+    {
+        "input": "If Option C's capacity reaches 12900, what might occur?",
+        "output": "{'additional_capacity' : {'C': 12900}}"
+    },
+    {
+        "input": "What could happen if Option C's capacity is adjusted to 19876?",
+        "output": "{'additional_capacity' : {'C': 19876}}"
+    },
+    {
+        "input": "How might the situation evolve if Option C's capacity is 11?",
+        "output": "{'additional_capacity' : {'C': 11}}"
+    },
+    {
+        "input": "What impact would there be if Option C's capacity was changed to 12876,000?",
+        "output": "{'additional_capacity' : {'C': 12876}}"
+    },
+    {
+        "input": "If the capacity of Option C becomes 56347, what could happen?",
+        "output": "{'additional_capacity' : {'C': 56347}}"
+    },
+    {
+        "input": "What might be the result if Option C's capacity increased to 87234?",
+        "output": "{'additional_capacity' : {'C': 87234}}"
+    },
+    {
+        "input": "How would things be different with Option C having a capacity of 12567",
+        "output": "{'additional_capacity' : {'C': 12567}}"
+    },
+    {
+        "input": "What changes would occur if the capacity of Option C was set at 59123",
+        "output": "{'additional_capacity' : {'C': 59123}}"
+    },
+    {
+        "input": "If Option C's capacity is altered to 6723, what might happen?",
+        "output": "{'additional_capacity' : {'C': 6723}}"
+    }
+]
